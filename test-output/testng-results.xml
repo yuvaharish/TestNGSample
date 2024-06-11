@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-11T19:42:55 IST" name="Default suite" finished-at="2024-06-11T19:43:19 IST" duration-ms="23497">
+    <groups>
+    </groups>
+    <test started-at="2024-06-11T19:42:55 IST" name="Default test" finished-at="2024-06-11T19:43:19 IST" duration-ms="23497">
+      <class name="jenkinstest.BrowserTest">
+        <test-method is-config="true" signature="loadBroser()[pri:0, instance:jenkinstest.BrowserTest@708f5957]" started-at="2024-06-11T19:42:53 IST" name="loadBroser" finished-at="2024-06-11T19:42:55 IST" duration-ms="2184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadBroser -->
+        <test-method signature="amzone()[pri:0, instance:jenkinstest.BrowserTest@708f5957]" started-at="2024-06-11T19:42:55 IST" name="amzone" finished-at="2024-06-11T19:43:00 IST" duration-ms="4266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amzone -->
+        <test-method signature="flipkart()[pri:0, instance:jenkinstest.BrowserTest@708f5957]" started-at="2024-06-11T19:43:00 IST" name="flipkart" finished-at="2024-06-11T19:43:06 IST" duration-ms="6379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+        <test-method signature="snapDeal()[pri:0, instance:jenkinstest.BrowserTest@708f5957]" started-at="2024-06-11T19:43:06 IST" name="snapDeal" finished-at="2024-06-11T19:43:19 IST" duration-ms="12798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- snapDeal -->
+        <test-method is-config="true" signature="closeBroser()[pri:0, instance:jenkinstest.BrowserTest@708f5957]" started-at="2024-06-11T19:43:19 IST" name="closeBroser" finished-at="2024-06-11T19:43:19 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+      </class> <!-- jenkinstest.BrowserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
